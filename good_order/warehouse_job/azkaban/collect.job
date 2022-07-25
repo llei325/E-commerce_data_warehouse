@@ -1,0 +1,4 @@
+# collect.job
+# 采集MySQL中的数据至HDFS
+type=command
+command=sh /data/soft/warehouse_job/collect_mysql.sh
